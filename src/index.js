@@ -51,7 +51,7 @@ avalon.component('ms-view', {
 
 function getPage(path) {
     path = path.slice(1);
-    var html = '<xmp is="ms-view" class="view-container" ms-widget="{path:\'' + path + '\',page: @page}"><xmp>';
+    var html = '<wbr is="ms-view" class="view-container" ms-widget="{path:\'' + path + '\',page: @page}">';
     return html
 }
 
