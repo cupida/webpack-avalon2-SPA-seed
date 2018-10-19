@@ -157,7 +157,7 @@ var resolve = {
         jquery: path.join(PATHS.libsPath, "js/jquery/jquery.js"),
         // avalon2: path.join(PATHS.libsPath, "js/avalon/avalon.modern.js"),
         // avalon2: path.join(PATHS.libsPath, "js/avalon/avalon2.2.7.js"),
-        avalon2: path.join(PATHS.libsPath, "js/avalon/avalon2.2.5.js"),
+        avalon2: path.join(PATHS.libsPath, "js/avalon/avalon2.2.10.js"),
         mmRouter: path.join(PATHS.libsPath, "js/avalon/mmRouter.js"),
         lodash: path.join(PATHS.libsPath, "js/lodash.min.js"),
 
